@@ -1,0 +1,3 @@
+FastAPI: the API’s routes and logic.
+Uvicorn: the server that makes the API accessible over the web.
+
